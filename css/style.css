@@ -202,3 +202,15 @@ p{
     background: black;
     overflow-x: hidden;
 }
+
+.about_wrapper{
+    padding-top: 10.875rem;
+}
+
+.portfolio_wrapper .nav-link{
+    font-size: 0.9375rem;
+    font-weight: 500;
+    margin-right: 0.25rem;
+    color: var(--text-black);
+    text-transform: uppercase;
+}

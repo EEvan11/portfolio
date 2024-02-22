@@ -56,5 +56,8 @@
 }
 
 @media (max-width: 390px){
+    .banner_wrapper .banner-content h2::after{
+        left: 34%;
+    }
 
 }
